@@ -1,2 +1,2 @@
-### Greetings, My name is Joshua Williams.
+### Greetings, my name is Joshua Williams.
 
