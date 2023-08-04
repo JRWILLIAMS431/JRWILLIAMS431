@@ -1,5 +1,5 @@
 ### 
-<h1>Greetings, my name is Joshua Williams <a href="https://linkedin.com/in/JRWILLIAMS431">IT Professional</a>☺</h1>
+<h1>Greetings, my name is Joshua Williams <a href="https://linkedin.com/in/JRWILLIAMS431">IT Professional</a>🦾</h1>
 
 <h2>👨🏿‍💻 Technology Projects:</h2>
 
