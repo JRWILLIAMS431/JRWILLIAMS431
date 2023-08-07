@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JRWILLIAMS431/post-install-config)
  
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs]
+  - [Configuring Active Directory within Azure VMs](https://github.com/JRWILLIAMS431/ActiveDirectorylab/tree/main)
   - [VPN Virtual Private Network setup]
 - <b>CODING PROJECTS
   - [ROCK,PAPER,SCISSORS with C++](https://github.com/JRWILLIAMS431/ROCK-PAPER-SCISSORS)
