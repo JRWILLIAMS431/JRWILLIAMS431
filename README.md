@@ -1,4 +1,6 @@
 ### 
+<p align="center">
+<img width="850" height="300"src="https://github.com/JRWILLIAMS431/JRWILLIAMS431/assets/128331522/5f3b85d5-94d0-4994-ac85-ac02c77e140e.png"/>
 <h1>Greetings, my name is Joshua Williams <a href="https://linkedin.com/in/JRWILLIAMS431">IT Professional</a>🦾</h1>
 
 <h2>👨🏿‍💻 Technology Projects:</h2>
